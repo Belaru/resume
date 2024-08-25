@@ -1,0 +1,66 @@
+.Side-bar{
+  height: 100vh;
+  background: #f2f3f7;
+  max-width: 400px;
+  padding: 0 20px;
+}
+
+#text-center > *{
+  font-size: 40px;
+}
+#colorlib-aside{
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: flex-start; 
+}
+
+#colorlib-aside #colorlib-main-menu ul li{
+  padding: 5px;
+}
+
+#colorlib-aside #colorlib-main-menu ul li a {
+  position: relative;
+  padding: 10px 0;
+  font-size: 20px;
+  color: black; /* Default link color */
+  text-decoration: none; /* Remove underline by default */
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+#colorlib-aside #colorlib-main-menu ul li a:focus,
+#colorlib-aside #colorlib-main-menu ul li a:active,
+#colorlib-aside #colorlib-main-menu ul li.active a{
+  text-decoration: underline; 
+  color: #2c98f0; 
+}
+
+#colorlib-aside #colorlib-main-menu ul li a:hover {
+  text-decoration: underline #2c98f0; 
+}
+
+#colorlib-aside #colorlib-main-menu ul, #colorlib-footer ul {
+  text-align: start;
+  margin: 0;
+  padding: 0;
+  margin-top: 15px;
+  list-style-type: none;
+}
+
+#colorlib-footer ul {
+  margin-top: 50px;
+  display: flex;
+  direction: column;
+  justify-content: flex-start; /* Center list items horizontally */
+}
+
+#colorlib-footer ul li {
+  margin: 0; /* Remove margin */
+}
+
+#linkedin-icon{
+  max-height: 50px;
+}
+

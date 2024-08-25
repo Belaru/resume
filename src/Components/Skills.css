@@ -1,0 +1,14 @@
+.skill-icon{
+    height: 50px;
+}
+
+#skills-row, #education-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin: 10px 0;
+}
+
+.skill-div{
+    margin: 5px 30px;
+}

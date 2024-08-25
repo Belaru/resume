@@ -1,0 +1,16 @@
+.project-entry{
+    display: flex;
+    margin: 20px 10px 0px 10px;
+    background-color: rgb(228, 237, 247);
+    padding: 10px;
+    border:rgb(54, 53, 53) solid;
+    border-radius: 15px;
+}
+
+.image-frame {
+    margin-right: 20px;
+}
+.img-responsive{
+    width: 300px;
+    height: 100%;
+}
