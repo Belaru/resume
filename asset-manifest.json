@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.255b3c9b.css",
+    "main.js": "/resume/static/js/main.65a8240d.js",
+    "static/js/453.f19e9853.chunk.js": "/resume/static/js/453.f19e9853.chunk.js",
+    "static/media/profile-picture.png": "/resume/static/media/profile-picture.005c12b95a843c7af103.png",
+    "static/media/ReleaseApt-Web.png": "/resume/static/media/ReleaseApt-Web.53504716fb4490ab12f2.png",
+    "static/media/StuddyBuddy-App.png": "/resume/static/media/StuddyBuddy-App.cb8279ff339bf947c04d.png",
+    "static/media/digitization-banner.jpg": "/resume/static/media/digitization-banner.91c6baa2b00748ee2839.jpg",
+    "static/media/Manager-Web.png": "/resume/static/media/Manager-Web.5148e561e5b63c94ff7d.png",
+    "static/media/kotlin.png": "/resume/static/media/kotlin.887c23a39b9b3c985b7e.png",
+    "static/media/mongodb.png": "/resume/static/media/mongodb.f8ccd69f1ccc8e5004c6.png",
+    "static/media/bash.png": "/resume/static/media/bash.ad38f821427083080906.png",
+    "static/media/logo.svg": "/resume/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/resume/index.html",
+    "main.255b3c9b.css.map": "/resume/static/css/main.255b3c9b.css.map",
+    "main.65a8240d.js.map": "/resume/static/js/main.65a8240d.js.map",
+    "453.f19e9853.chunk.js.map": "/resume/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255b3c9b.css",
+    "static/js/main.65a8240d.js"
+  ]
+}
