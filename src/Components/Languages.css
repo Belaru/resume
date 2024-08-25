@@ -1,0 +1,50 @@
+.language-skills {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: auto 20px 15px;
+  }
+  
+  .bar-container {
+    position: relative;
+    background-color: #b2a3a3;
+    border-radius: 25px;
+    overflow: hidden;
+    margin-top: 5px;
+  }
+  
+  .bar {
+    height: 15px;
+    border-radius: 25px;
+  }
+
+  /* .bar::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 60px; 
+    transform: translate(50%, -50%);
+    width: 20px;
+    height: 20px;
+    background-color: inherit;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px #fff; 
+  } */
+  
+  .percentage {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+  }
+  
